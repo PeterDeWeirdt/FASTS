@@ -1,0 +1,8 @@
+data/DepMap/Achilles_gene_effect.csv.gz
+data/interim
+renv/library
+.Rproj.user
+.Rhistory
+.DS_Store
+figures/
+presentations/
